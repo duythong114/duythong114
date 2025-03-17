@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Fresher Frontend Developer
+
 
 <!--
 **duythong114/duythong114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
